@@ -1,4 +1,4 @@
-## Degree project in Machine Learning (Master's of Science) at KTH Royal Institute of Technology 
+## Degree project in Machine Learning (Master of Science) at KTH Royal Institute of Technology 
 
 Transformer is a network architecture that is based on attention mechanism,
 dispensing entirely with recurrence and convolutions. It has been shown to outperform
